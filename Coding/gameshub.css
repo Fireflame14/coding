@@ -1,0 +1,46 @@
+#animation{
+height:100px;
+width:1200px;
+text-align:center;
+background-color:red;
+animation-name:top;
+animation-duration:7s;
+animation-iteration-count:infinite;
+border-radius:25%;
+}
+@keyframes top{
+    0%{background-color:red;}
+    10%{background-color:orange;}
+    20%{background-color:yellow;}
+    30%{background-color:yellowgreen;}
+    40%{background-color:green;}
+    50%{background-color:lightblue;}
+    60%{background-color:blue;}
+    70%{background-color:violet;}
+    80%{background-color:purple;}
+    90%{background-color:lightpink;}
+    100%{background-color:brown;}
+}
+#abc,th{
+    background-color:#414141;
+    border:#303030 2px solid;
+    border-collapse:collapse;
+    
+}
+#abc{
+        border:#303030 3.5px solid;
+}
+#q{
+color:white;
+}
+img:hover{
+opacity:0.2;
+}
+#img1{
+float:left;
+}
+#img2{
+float:right;
+}
+
+

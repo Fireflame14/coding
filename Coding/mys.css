@@ -1,0 +1,13 @@
+*{
+text-align:center;
+color:#065E7C;
+}
+body{
+background-color:pink;
+}
+#a{
+font-family:cursive, "Comic Sans MS";
+}
+#b{
+font-family:monospace, "monaco";
+}
